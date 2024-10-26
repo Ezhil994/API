@@ -1,0 +1,60 @@
+{
+	"id": 11,
+	"type": "Cake",
+	"name": "Ezhil",
+	"ppu": 1.5,
+	"batters": {
+		"batter": [
+			{
+				"id": "101",
+				"type": "Regular"
+			},
+			{
+				"id": "102",
+				"type": "Blackforest"
+			},
+			{
+				"id": "103",
+				"type": "Redvelvet"
+			},
+			{
+				"id": "104",
+				"type": "Chocolate"
+			},
+			{
+				"id": "105",
+				"type": "Choco Truffle"
+			},
+			{
+				"id": "106",
+				"type": "Strawberry"
+			}
+		]
+	},
+	"topping": [
+		{
+			"id": "201",
+			"type": "none"
+		},
+		{
+			"id": "202",
+			"type": "Glazed"
+		},
+		{
+			"id": "203",
+			"type": "Maple"
+		},
+		{
+			"id": "204",
+			"type": "Chocolate"
+		},
+		{
+			"id": "205",
+			"type": "Chocolate with Sprinkles"
+		},
+		{
+			"id": "205",
+			"type": "Powdered Sugar"
+		}
+	]
+}

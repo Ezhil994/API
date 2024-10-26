@@ -1,0 +1,18 @@
+{
+	"employeeId": 76336,
+	"name": "Ajay",
+	"age": 22,
+	"address": {
+		"door no": "A55",
+		"floor": 4,
+		"street": "Middle school street",
+		"area": "Medavakkam",
+		"city": "chennai",
+		"pincode": 600100
+	},
+	"Experience": [
+		"TCS",
+		"Infosys",
+		"Virtusa"
+	]
+}
